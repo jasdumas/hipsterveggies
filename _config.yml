@@ -33,7 +33,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Glastonbury, Connecticut
+  - line: 
 
 # Build settings
 markdown: kramdown
