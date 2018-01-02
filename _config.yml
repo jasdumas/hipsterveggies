@@ -10,7 +10,7 @@ description: "intelligent locally-grown subculture"
 # Team names, titles and social links
 people:
 - name: Jasmine Dumas
-  pic: jasmine_pic
+  pic: tomato
   position: Chief Grower
   social:
     - title: twitter
@@ -18,7 +18,7 @@ people:
 
 
 - name: Jenna Daly
-  pic: 2
+  pic: tomato
   position: Chief Grower
   social:
     - title: twitter
@@ -33,7 +33,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 
+  - line:
 
 # Build settings
 markdown: kramdown
