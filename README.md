@@ -1,2 +1,2 @@
 # hipsterveggies
-local grown subculture
+intelligent locally-grown subculture
