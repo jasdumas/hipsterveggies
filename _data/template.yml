@@ -3,9 +3,9 @@ color:
   primary: 7b9c7f # brand & button
   secondary: 7b9c7f
   secondary-dark: a19881 # title headers
-  muted: 777 # font 
+  muted: 777 # font
 
 # Font Families
 font:
-  primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
+  primary: 'Blokletters, "Helvetica Neue",Helvetica,Arial,sans-serif'
   secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
