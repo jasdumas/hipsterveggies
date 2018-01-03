@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 img: kale.png
-thumbnail: kale-thumbnail.png
+thumbnail: kale-thumbnail.jpeg
 alt: kale
 project-date: Summer 2018
 category: Current Grow
