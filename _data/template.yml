@@ -7,5 +7,5 @@ color:
 
 # Font Families
 font:
-  primary: 'Blokletters, "Helvetica Neue",Helvetica,Arial,sans-serif'
+  primary: 'Amatic SC, "Helvetica Neue",Helvetica,Arial,sans-serif'
   secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
