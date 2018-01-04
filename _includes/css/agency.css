@@ -179,6 +179,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand {
     font-family: "Amatic SC","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
+    font-size: 22px;
 }
 
 .navbar-default .navbar-brand:hover,
