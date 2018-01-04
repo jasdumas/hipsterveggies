@@ -33,7 +33,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line:
+  - line: Connecticut
 
 # Build settings
 markdown: kramdown
