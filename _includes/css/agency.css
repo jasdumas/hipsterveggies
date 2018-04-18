@@ -33,6 +33,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
+    font-size: 22px;
 }
 
 a {
@@ -45,6 +46,7 @@ a:focus,
 a:active,
 a.active {
     color: #{{ site.data.template.color.secondary }};
+    font-size: 22px;
 }
 
 h1,
