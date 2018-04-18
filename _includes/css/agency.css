@@ -181,7 +181,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand {
     font-family: "Amatic SC","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
-    font-size: 22px;
+    font-size: 30px;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -213,7 +213,7 @@ fieldset[disabled] .btn-xl.active {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 400;
-    letter-spacing: 1px;
+    letter-spacing: 3px;
     color: #fff;
     -webkit-transition: all ease .35s;
     -moz-transition: all ease .35s;
