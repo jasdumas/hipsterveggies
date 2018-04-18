@@ -37,7 +37,7 @@ a.active {
 
 a {
     color: #{{ site.data.template.color.primary }};
-    font-size: 16px;
+    font-size: 22px;
 }
 
 a:hover,
