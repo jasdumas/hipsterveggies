@@ -19,7 +19,7 @@ body {
 }
 
 p {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.75;
 }
 
@@ -33,12 +33,12 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    font-size: 22px;
+    font-size: 26px;
 }
 
 a {
     color: #{{ site.data.template.color.primary }};
-    font-size: 22px;
+    font-size: 26px;
 }
 
 a:hover,
@@ -46,7 +46,7 @@ a:focus,
 a:active,
 a.active {
     color: #{{ site.data.template.color.secondary }};
-    font-size: 22px;
+    font-size: 26px;
 }
 
 h1,
@@ -127,7 +127,7 @@ fieldset[disabled] .btn-primary.active {
     border-radius: 3px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 18px;
+    font-size: 26px;
     font-weight: 700;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
@@ -181,7 +181,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand {
     font-family: "Amatic SC","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
-    font-size: 30px;
+    font-size: 32px;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -393,7 +393,7 @@ section h3.section-subheading {
     height: 20px;
     margin-top: -12px;
     text-align: center;
-    font-size: 20px;
+    font-size: 22px;
     color: #fff;
 }
 
@@ -422,7 +422,7 @@ section h3.section-subheading {
 #portfolio .portfolio-item .portfolio-caption p {
     margin: 0;
     font-family: {{ site.data.template.font.secondary }};
-    font-size: 16px;
+    font-size: 18px;
     font-style: italic;
 }
 
@@ -754,7 +754,7 @@ ul.social-buttons li a {
     width: 40px;
     height: 40px;
     border-radius: 100%;
-    font-size: 20px;
+    font-size: 22px;
     line-height: 40px;
     outline: 0;
     color: #fff;
