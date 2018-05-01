@@ -9,6 +9,6 @@ thumbnail: brussels-sprout-thumbnail.png
 alt: brussels
 project-date: Summer 2018
 category: Current Grow
-description: TBD
+description: 
 
 ---
