@@ -1,5 +1,5 @@
-url: http://hipsterveggies.com/
-baseurl: http://hipsterveggies.com/
+url: https://hipsterveggies.com/
+baseurl: https://hipsterveggies.com/
 
 # Site settings
 title: Hipster Veggies
@@ -9,7 +9,7 @@ description: "intelligent locally-grown subculture"
 
 # Team names, titles and social links
 people:
-- name: Jasmine Dumas
+- name: Jasmine Daly
   pic: jasmine-bs
   position: Chief Grower
   social:
